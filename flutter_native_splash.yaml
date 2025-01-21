@@ -1,0 +1,15 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "#272727"
+  image: assets/logos/whiteArp.png
+  image_dark: assets/logos/darkArp.png
+  android_gravity: center
+
+  android_12:
+    color: "#FFFFFF"
+    color_dark: "#272727"
+    image: assets/logos/whiteArp.png
+    image_dark: assets/logos/darkArp.png
+    android_gravity: center
+
+  web: false
